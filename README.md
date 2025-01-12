@@ -1,0 +1,1 @@
+This repository demonstrates a common Python TypeError and its solution. The bug occurs because of an attempt to add an integer and a string. The solution involves type checking or type conversion.
